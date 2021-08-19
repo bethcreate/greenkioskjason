@@ -1,0 +1,22 @@
+{
+  "name": "greenkiosk",
+  "version": "1.0.0",
+  "description": "making greenkiosk list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bethcreate/greenkioskjason.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bethcreate/greenkioskjason/issues"
+  },
+  "homepage": "https://github.com/bethcreate/greenkioskjason#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
